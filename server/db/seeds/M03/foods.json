@@ -1,0 +1,6 @@
+[
+  {"id":"f3000000-0000-4000-8000-000000000001","name":"白米饭（熟，长粒）","caloriesKcal":130,"carbsG":28.2,"proteinG":2.7,"fatG":0.3,"source":"USDA_FDC_168878"},
+  {"id":"f3000000-0000-4000-8000-000000000002","name":"香蕉（生）","caloriesKcal":89,"carbsG":22.8,"proteinG":1.1,"fatG":0.3,"source":"USDA_FDC_173944"},
+  {"id":"f3000000-0000-4000-8000-000000000003","name":"鸡胸肉（去皮，烤熟）","caloriesKcal":165,"carbsG":0,"proteinG":31,"fatG":3.6,"source":"USDA_FDC_171477"},
+  {"id":"f3000000-0000-4000-8000-000000000004","name":"苹果（带皮，生）","caloriesKcal":52,"carbsG":13.8,"proteinG":0.3,"fatG":0.2,"source":"USDA_FDC_171688"}
+]
